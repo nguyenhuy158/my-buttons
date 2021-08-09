@@ -3,7 +3,7 @@
     padding: 0;
     box-sizing: border-box;
 
-    --slide: 80px;
+    --slide: 50px;
     --color-1: rgb(119, 218, 79);
     --color-2: rgb(95, 76, 218);
     --color-5: rgb(57, 207, 94);
